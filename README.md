@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shuvam Mazumder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<img align="right" alt="following the dream" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvammazumder&label=Profile%20views&color=0e75b6&style=flat" alt="shuvammazumder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shuvammazumder" alt="shuvammazumder" /></a> </p>
